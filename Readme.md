@@ -1,0 +1,1 @@
+this is first python django project for rating 
